@@ -1,0 +1,23 @@
+# Obsidian
+.obsidian/
+.trash/
+# Oversiktsnotater laget av rydd_vault.py
+_*.md
+
+# Bevisfiler og prøvedata holdes utenfor repoet
+*.zip
+*.tar
+*.gz
+*.img
+*.dd
+*.e01
+*.E01
+*.vmdk
+*.ova
+*.vmem
+*.raw
+*.dmp
+*.mem
+*.pcap
+*.pcapng
+*.apk
